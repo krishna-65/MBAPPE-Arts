@@ -1,9 +1,8 @@
 
-// const BASE_URL = "http://localhost:4000"
+
+
+
 const BASE_URL = "https://furniture-backend-2gik.onrender.com"
-
-
-//const BASE_URL = "https://mbappearts.com"
 
 
 
